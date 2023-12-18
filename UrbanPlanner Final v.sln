@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanPlanner Final v", "UrbanPlanner Final v\UrbanPlanner Final v.csproj", "{7ECE15FF-D1EC-43E1-A8E7-1645674FE449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ECE15FF-D1EC-43E1-A8E7-1645674FE449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECE15FF-D1EC-43E1-A8E7-1645674FE449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECE15FF-D1EC-43E1-A8E7-1645674FE449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECE15FF-D1EC-43E1-A8E7-1645674FE449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D4B3B7B-0ABD-47E7-82D5-CDA1BF35691D}
+	EndGlobalSection
+EndGlobal
