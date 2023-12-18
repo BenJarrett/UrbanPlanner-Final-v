@@ -30,8 +30,11 @@ namespace UrbanPlanner_Final_v.Buildings
             Stories = stories;
             Width = width;
             Depth = depth;
+            Volume = (int)(width * depth * (3 * stories));
 
         }
+
+
 
     }
 }
